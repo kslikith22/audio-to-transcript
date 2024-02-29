@@ -1,0 +1,7 @@
+uvicorn
+fastapi
+numpy
+librosa
+tensorflow
+transformers
+io
